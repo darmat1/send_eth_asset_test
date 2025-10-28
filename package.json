@@ -1,0 +1,13 @@
+{
+  "name": "web3-tx-sender",
+  "version": "1.0.0",
+  "description": "Script to send native assets using ethers.js",
+  "main": "send_native_asset.js",
+  "scripts": {
+    "start": "node send_native_asset.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.1"
+  }
+}
