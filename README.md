@@ -11,7 +11,7 @@ This Node.js script facilitates sending the native asset (e.g., ETH, MATIC, BNB)
 
 1.  Clone the repository and navigate to the directory:
     ```bash
-    git clone [YOUR_REPO_URL]
+    git clone https://github.com/darmat1/send_eth_asset_test
     cd web3-tx-sender
     ```
 2.  Install dependencies:
