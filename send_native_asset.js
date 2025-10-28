@@ -56,7 +56,7 @@ async function sendNativeAsset(recipientAddress, amountInEth) {
 }
 
 // --- INPUTS ---
-const AMOUNT = '0.001'; 
-const RECIPIENT_PUBLIC_KEY = '0x23A37417d5C8397C1801BB6bD737117e59303898'; 
+const AMOUNT = '0.001'; // Amount in ETH to send
+const RECIPIENT_PUBLIC_KEY = '0x23A37417................98'; // Replace with recipient's public key
 
 sendNativeAsset(RECIPIENT_PUBLIC_KEY, AMOUNT);
